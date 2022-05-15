@@ -1,2 +1,2 @@
-# losowy-u-ytkownik
+# losowy-użytkownik
 losowy-użytkownik
