@@ -1,0 +1,79 @@
+body { 
+    background-color: #232323; 
+    padding: 6em; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: white; 
+    text-align: center;
+    text-shadow: 3px 2px 6px rgba(220, 25, 141, 1);
+    font-size: 3em;
+}
+
+.row { 
+    display: flex;
+}
+
+.column1 { 
+    flex: 30%;
+}
+
+.column2 {
+    flex: 70%
+}
+
+#avatar-img { 
+    margin: 1em; 
+    border-radius: 6em;
+}
+
+.user-profile {
+    margin: auto; 
+    padding: 2em; 
+    width: 35em; 
+    background-color:antiquewhite;
+    border-radius: 5em; 
+    color: cadetblue;
+}
+
+#full-name {
+    font-size: 1.5em; 
+    font-weight: bold; 
+    color: rgb(255, 0, 174);
+}
+
+#username {
+    font-size: 0.8em;
+}
+
+#user-details {
+    margin-top: 1em; font-size: 1em; 
+    color: teal
+}
+
+#gender {
+    margin-top: 1em;
+}
+
+#city-name { 
+    color: blue; 
+    font-size: 1.2em; 
+    padding-top: 1em;
+}
+
+
+@media (max-width:768px){
+    html{
+        font-size: 70%;
+    }
+}
+
+@media (max-width:450px){
+
+    html{
+        font-size: 50%;
+    }
+
+}
+
