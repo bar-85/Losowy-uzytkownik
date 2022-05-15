@@ -1,4 +1,4 @@
-# Losowy użytkownik
+# LOSOWY UŻYTKOWNIK
 Po odświeżeniu strony pojawia się losowy użytkownik oraz jego podstawowe dane: imię i nazwisko, nazwa, email, płeć, adres zamieszkania.
 
 
