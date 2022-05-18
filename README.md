@@ -3,10 +3,14 @@ Po odświeżeniu strony pojawia się losowy użytkownik oraz jego podstawowe dan
 
 >Stronę można zobaczyć pod adresem: https://bar-85.github.io/losowy-uzytkownik/
 
+
+
 ## Technologie
 - HTML
 - CSS
 - JavaScript
+
+
 
 ## Random user
 Skorzystano z darmowego API do pobierania danych: https://randomuser.me/api
