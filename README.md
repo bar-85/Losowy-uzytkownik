@@ -17,6 +17,7 @@ Po odświeżeniu strony pojawia się losowy użytkownik oraz jego podstawowe dan
 Skorzystano z darmowego API do pobierania danych: https://randomuser.me/api
 
 
-![randomuser](https://user-images.githubusercontent.com/105555319/168482461-fa1f6a92-e92f-476d-b711-ef2011992139.png)
+![Screenshot_4](https://user-images.githubusercontent.com/105555319/187286699-c3572ea5-68a2-4459-99af-8247b727ebad.png)
+
 
 
